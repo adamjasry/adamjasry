@@ -1,10 +1,13 @@
 ### Hi, I'm Adam 👋
 
-I'm a developer focused on Python and building practical software. 
+Cybersecurity student focused on understanding system internals, security operations, and automation. 
 
-### 🛠️ Tech Stack
-- **Language:** Python
-- **Tools:** Git, GitHub, VS Code
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, Bash, C, C++
+- **Focus Areas:** SOC operations, log analysis, and security automation
+- **Environments:** Linux, Git, GitHub
 
-### 📊 GitHub Stats
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamjasry&show_icons=true&theme=radical)
+### 📂 What You'll Find Here
+- Small security automation scripts and log parsers.
+- University lab work and low-level programming projects (C/C++).
+- CTF write-ups and personal research notes.
