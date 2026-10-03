@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Adam 👋
 
-<!--
-**adamjasry/adamjasry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who likes building stuff and breaking things (sometimes on purpose). 
 
-Here are some ideas to get you started:
+- 💻 What I'm working on: Building cool projects and tackling code.
+- ⚡ Fun fact: My git commit history is a timeline of caffeine-fueled midnight coding sessions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, JavaScript, C (thanks CS50!), etc.
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📊 GitHub Stats
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamjasry&show_icons=true&theme=radical)
