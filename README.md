@@ -1,15 +1,10 @@
-### Hi there, I'm Adam 👋
+### Hi, I'm Adam 👋
 
-I'm a developer who likes building stuff and breaking things (sometimes on purpose). 
+I'm a developer focused on Python and building practical software. 
 
-- 💻 What I'm working on: Building cool projects and tackling code.
-- ⚡ Fun fact: My git commit history is a timeline of caffeine-fueled midnight coding sessions.
-
-### 🛠️ Tech Stack & Tools
-- **Languages:** Python, JavaScript, C (thanks CS50!), etc.
+### 🛠️ Tech Stack
+- **Language:** Python
 - **Tools:** Git, GitHub, VS Code
-
----
 
 ### 📊 GitHub Stats
 ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamjasry&show_icons=true&theme=radical)
